@@ -1,0 +1,26 @@
+.EditEventElement{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.EditEventElement h1{
+    width: 100%;
+    /* border: 2px solid; */
+    margin: 5px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.back{
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    /* padding: 5px; */
+    width: 20%;
+    height: 50px;
+    justify-content: center;
+}
+.back:hover{
+    background-color: rgb(163, 163, 163, 0.3);
+}
